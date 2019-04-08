@@ -34,3 +34,7 @@ manage.py collectstatic
 manage.py runserver
 manage.py runserver 0.0.0.0:80 (port selected)
 ```
+* Django project:
+```
+[Link](https://www.djangoproject.com/)
+```
