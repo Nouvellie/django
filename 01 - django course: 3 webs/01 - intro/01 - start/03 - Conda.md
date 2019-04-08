@@ -2,5 +2,5 @@
 
 ## Conda install and settings
 ```
-[Conda.](https://github.com/Nouvellie/ubuntu/blob/ubuntu/anaconda.md)
+### 01. [Conda.](https://github.com/Nouvellie/ubuntu/blob/ubuntu/anaconda.md)
 ```
