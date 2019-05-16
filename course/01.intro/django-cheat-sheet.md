@@ -1,40 +1,40 @@
-# DJANGO CHEAT SHEET
+<div>
 
-## Django-admin
-```
-django-admin startproject <projectname>
-```
-## Manage
-* User (staff)
-```
-manage.py createsuperuser
-```
-* Start app:
-```
-manage.py startapp <appname>
-```
+<h1>DJANGO CHEAT SHEET</h1>
+<h2>Django admin</h2>
+<h4>Start project:</h4>
 
-* Apps migration:
-```
-manage.py makemigrations <appname>
-manage.py migrate <appname>
+`$ django-admin.py startproject <projectname>`
 
-```
-* General django migration:
-```
-manage.py makemigrations
-manage.py migrate
-```
-* Static files:
-```
-manage.py collectstatic
-```
-* Run django project:
-```
-manage.py runserver
-manage.py runserver 0.0.0.0:80 (port selected)
-```
-* Django project:
-```
-[Link](https://www.djangoproject.com/)
-```
+<h2>Manage</h2>
+<h4>Create super user:</h4>
+
+`$ manage.py createsuperuser`
+
+<h4>Start App:</h4>
+
+`$ django-admin.py startapp <appname>`
+
+<h4>Makemigrations and migrate: (for apps include <appname>)</h4>
+
+`$ manage.py makemigrations`<br>
+`$ manage.py migrate`
+
+<h4>Static files:</h4>
+
+`$ manage.py collecstatic`
+
+<h4>Run Django project: (server)</h4>
+
+`$ manage.py runserver`<br>
+`$ manage.py runserver 0.0.0.0:8000`
+
+<h2>Django project</h2>
+
+<p>
+	
+[Link.](https://www.djangoproject.com/)
+
+</p>
+
+</div>
