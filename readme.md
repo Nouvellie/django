@@ -1,7 +1,7 @@
 <div>
 <h1>DJANGO</h1>
 
-- [Course.](https://github.com/Nouvellie/django/tree/django/course)
+- [Course.](https://github.com/Nouvellie/django-1st/tree/django/course)
 
 <br><br>
 <p align="center">
