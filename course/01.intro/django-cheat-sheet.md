@@ -15,7 +15,7 @@
 
 `$ django-admin.py startapp <appname>`
 
-<h4>Makemigrations and migrate: (for apps include <appname>)</h4>
+<h4>Makemigrations and migrate: (for apps include *<appname>*)</h4>
 
 `$ manage.py makemigrations`<br>
 `$ manage.py migrate`
